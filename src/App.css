@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+    background: #dedcdc;
+}
+
+.ant-btn:hover{
+    transform: scale(1.05);
+}
+
+.btn:hover {
+    border: 1.8px solid rgba(255, 217, 0, 0.712) !important;
+}
